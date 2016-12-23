@@ -2,7 +2,10 @@
   "name": "adminbsb-materialdesign",
   "version": "1.0.4",
   "description": "AdminBSB - Free admin panel that is based on Bootstrap 3.x with Material Design",
-  "main": "js/admin.js",
+  "main": [
+    "js/admin.js",
+    "css/style.css"
+  ],
   "authors": [
     "Güray Yarar"
   ],
